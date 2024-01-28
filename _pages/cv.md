@@ -11,18 +11,17 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Science in Data Science and Applications, Indian Institute of Technology - Madras, 2024
+* Bachelor of Technology in Computer Science and Engineering, Shri Mata Vaishno Devi University, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Jun 2022 – Present: Machine Learning Research Programmer
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Jun 2022 – Present: Data Science Internship
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -56,4 +55,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Vikalp
+* National Service Scheme
