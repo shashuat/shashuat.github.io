@@ -17,12 +17,12 @@ Education
 Work experience
 ======
 * Jun 2022 – Present: Machine Learning Research Programmer
-  * Github University
+  * High End Computing AI and Deep Learning Lab
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
 * Jun 2022 – Present: Data Science Internship
-  * Github University
+  * SkilloVilla
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
