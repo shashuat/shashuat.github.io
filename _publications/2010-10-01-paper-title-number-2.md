@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "A Fine Tuned Adaptive Weight Deep Dense Meta Stacked Transfer Learning Models for cancer classification"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/
+excerpt: 'A Fine Tuned Adaptive Weight Deep Dense Meta Stacked Transfer Learning Models for cancer classification'
+date: 2024
+venue: 'Computational Intelligence'
+paperurl: ''
+citation: 'Kaushik, B., Chadha, A., Khan, Y., Sharma, S. et al&quot; <i>Expert Systems 1</i>. 1(1).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+<!-- This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
