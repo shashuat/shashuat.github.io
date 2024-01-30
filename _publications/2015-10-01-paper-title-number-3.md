@@ -3,7 +3,7 @@ title: "An ensemble approach for multiclass skin lesion classification from derm
 collection: publications
 permalink: /publication/
 excerpt: 'An ensemble approach for multiclass skin lesion classification from dermoscopic images'
-date: 2024
+date: 2024-01-01
 venue: 'International Conference on Computing, Communication, Security and Intelligent Systems'
 paperurl: ''
 citation: 'Kaushik, B., Chadha, A., Khan, Y., Sharma, S. et al&quot; <i>Expert Systems 1</i>. 1(1).'

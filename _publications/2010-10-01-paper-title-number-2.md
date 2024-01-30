@@ -3,7 +3,7 @@ title: "A Fine Tuned Adaptive Weight Deep Dense Meta Stacked Transfer Learning M
 collection: publications
 permalink: /publication/
 excerpt: 'A Fine Tuned Adaptive Weight Deep Dense Meta Stacked Transfer Learning Models for cancer classification'
-date: 2024
+date: 2024-01-01
 venue: 'Computational Intelligence'
 paperurl: ''
 citation: 'Kaushik, B., Chadha, A., Khan, Y., Sharma, S. et al&quot; <i>Expert Systems 1</i>. 1(1).'

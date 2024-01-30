@@ -28,12 +28,10 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java, C, C++, SQL
+* Data Science: TensorFlow, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, Langchain
+* Software Development: Flask, FastAPI, React, Next.js, HTML/CSS
+* Development Tools: AWS (EC2, S3, Lambda), Kubernetes, MLflow, Tensorboard, Git, Docker
 
 Publications
 ======

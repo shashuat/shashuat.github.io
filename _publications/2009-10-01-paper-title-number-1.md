@@ -3,7 +3,7 @@ title: "Brain Tumour Classification using Genetic Algorithm for Optimized Featur
 collection: publications
 permalink: /publication/
 excerpt: 'Brain Tumour Classification using Genetic Algorithm for Optimized Feature Selection and Segmentation'
-date: 2024
+date: 2024-01-01
 venue: 'Expert Systems'
 paperurl: ''
 citation: 'Kaushik, B., Khan, Y., Chadha, A., Sharma, S. et al&quot; <i>Expert Systems 1</i>. 1(1).'
