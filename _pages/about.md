@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm Shashwat Sharma, a data science and computer science enthusiast currently navigating the intricate world of machine learning and AI at the High End Computing AI and Deep Learning Lab in Katra, J&K. My academic journey has taken me from the prestigious Indian Institute of Technology - Madras, where I honed my skills in Data Science and Applications, to Shri Mata Vaishno Devi University, where I delved into Computer Science and Engineering.
+I'm Shashwat Sharma, a Machine Learning Enthusiast.  I'm juggling a bit of an academic adventure, pursuing a Bachelors in Data Science from Indian Intitute of Technology - Madras and another Bachelors Degree in Computer Science & Engineering from Shri Mata Vaishno Devi University.
 
-In the realm of professional experience, I've had the opportunity to contribute as a Machine Learning Research Programmer, where my focus has been on leveraging deep learning and transfer learning methodologies to push the boundaries in healthcare, notably in the detection of various diseases. The challenges and successes in these projects have not only sharpened my technical skills but also instilled a deep appreciation for the potential impact of AI in real-world applications.
+Professionally, I've been working as a Machine Learning Research Programmer at HEC AI Lab leveraging deep learning and transfer learning methodologies to various applications in Computer Vision and Natural Language Processing. Outside the lab, I had a cool stint as a Associate Data Scientist at SkilloVilla in Bengaluru, where I got to merge my love for teaching with tech. I worked on making the curriculum a bit more relatable for folks looking to get into data science.
 
-Beyond the lab, my stint as a Data Science Intern at SkilloVilla in Bengaluru allowed me to blend my passion for teaching and technology, developing curriculum enhancements that resonate with aspiring data scientists.
+Some of my work at hecaidl lab have culminated into research papers and patents. I have also contributed to some open-source codebases. When I'm not buried in code, I lead and volunteer in initiatives that make education and technology accessible to a broader audience. In essence, I'm a continual learner, a problem-solver at heart, and someone who believes in the power of technology to transform lives, one epoch at a time.
 
-My curiosity and drive to innovate have led me to co-author research papers and contribute to patents that aim to solve pressing issues using technology. When I'm not buried in code or research, I lead and volunteer in initiatives that make technology accessible and understandable to a broader audience, believing firmly that the true power of technology lies in its ability to democratize information and empower individuals.
 
-In essence, I'm a continual learner, a problem-solver at heart, and someone who believes in the power of technology to transform lives, one line of code at a time.

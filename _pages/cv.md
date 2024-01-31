@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+[Download my CV](http://www.example.com/path/to/your/CV.pdf)
+======
 
 Education
 ======
