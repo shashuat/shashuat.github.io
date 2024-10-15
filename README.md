@@ -1,7 +1,5 @@
 # ![wow](img.png)
 
-# Shashwat Sharma
-
 Hello! I'm a Master Student in Computer Science at Institut Polytechnique de Paris, France. I'm interested in Multimodal Neural networks and their verification. 
 
 I'm looking for an Internship in Spring 2025.
