@@ -72,7 +72,12 @@ Bachelor of Technology in Computer Science and Diploma in Data Science
 ## Contact
 
 Email: [firstname.lastname@ip-paris.fr] or [z{firstname}z@gmail.com]
+
 LinkedIn: [linkedin/shashwatscs](https://www.linkedin.com/in/shashwatscs)  
+
 GitHub: [github/shashuat](https://github.com/shashuat)
-Kaggle: [kaggle/zshashz](https://www.kaggle.com/zshash)
+
+Kaggle: [kaggle/zshashz](https://www.kaggle.com/zshashz)
+
 Google scholar: [Scholar](https://scholar.google.com/citations?hl=en&user=Xii-atIAAAAJ)
+
