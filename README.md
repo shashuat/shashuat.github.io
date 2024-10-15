@@ -1,3 +1,5 @@
+# ![wow](img.png)
+
 # Shashwat Sharma
 
 Hello! I'm a Master Student in Computer Science at Institut Polytechnique de Paris, France. I'm interested in Multimodal Neural networks and their verification. 
@@ -18,16 +20,14 @@ I'm looking for an Internship in Spring 2025.
 
 ## Projects
 ### Multi Modal Transformer for Medical Visual Question Answering 
-*Natural Language Processing, Computer Vision*  
-[GitHub Repository](https://github.com/shashuat/)
+*Natural Language Processing, Computer Vision*  [GitHub Repository](https://github.com/shashuat/)
 
 - Developed a Multimodal Transformer for Medical VQA, integrating the BERT Language Model and Vision Transformer for image feature extraction. 
 - The architecture enhances medical image and text semantic representations through Masked Language Modeling with image features as a pretext task. 
 - Fine-tuned on the VQA-Med dataset, the model optimizes attention mechanisms for precise image region analysis, achieving state-of-the-art results with 83.1% modality accuracy.
 
-### [Voxtalum: AI Voice Assistant](https://github.com/shashuat/Voxtalum) 
-*Langchain, DeepLake, Streamlit, Natural Language Processing*  
-[GitHub Repository](https://github.com/shashuat/Voxtalum)
+### Voxtalum: AI Voice Assistant(https://github.com/shashuat/Voxtalum) 
+*Langchain, DeepLake, Streamlit, Natural Language Processing*  [GitHub Repository](https://github.com/shashuat/Voxtalum)
 
 - Developed a dual-input approach for the AI voice assistant using Whisper and Langchain, enabling efficient knowledge retrieval and natural user interactions. 
 - Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. 
@@ -35,9 +35,8 @@ I'm looking for an Internship in Spring 2025.
 
 
 ## Work Experience
-#### Machine Learning Research Programmer
-**May 2022 – May 2024**  
-*Computing AI and Deep Learning Lab - SMVDU*
+### Machine Learning Research Programmer
+**Computing AI and Deep Learning Lab - SMVDU**  *May 2022 – May 2024*
 
 - Designed a system for live transcription and summarization using transformer models, reducing the word error rate by 8% through fine-tuning a multilingual speech recognition model. Utilized the Hugging Face ecosystem for training and sharing models and datasets. Developed demos for the voice model.
   
@@ -45,9 +44,8 @@ I'm looking for an Internship in Spring 2025.
   
 - Researched deep learning and transfer learning, integrating pre-trained models like VGG, ResNet, and BERT to improve model performance. Also explored audio generation techniques, including AudioLM. Led the development of the lab's website using Next.js.
 
-#### Associate Data Scientist
-**Sep 2023 - Dec 2023**  
-*SkilloVilla*
+### Associate Data Scientist
+**SkilloVilla** *Sep 2023 - Dec 2023*
 
 - Created Jupyter Notebooks to improve the data science curriculum, leading to a 20% boost in feedback scores. 
 - Worked with industry experts to design masterclasses that included real-world examples of various ML models. 
@@ -55,11 +53,11 @@ I'm looking for an Internship in Spring 2025.
 
 ## Education
 
-#### **Institut Polytechnique de Paris**  
+### **Institut Polytechnique de Paris**  
 Master of Science in Data and Artificial Intelligence (Computer Science)
 *2024 - Present*
 
-#### **SMVD University and Indian Institute of Technology, Madras**  
+### **SMVD University and Indian Institute of Technology, Madras**  
 Bachelor of Technology in Computer Science and Diploma in Data Science
 *2020 - 2024*
 
