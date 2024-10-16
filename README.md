@@ -1,3 +1,5 @@
+# Shashwat Sharma
+
 # ![wow](img.png)
 
 Hello! I'm a Master Student in Computer Science at Institut Polytechnique de Paris, France. I'm interested in Multimodal Neural networks and their verification. 
@@ -21,15 +23,14 @@ I'm looking for an Internship in Spring 2025.
 *Natural Language Processing, Computer Vision*  [GitHub Repository](https://github.com/shashuat/)
 
 - Developed a Multimodal Transformer for Medical VQA, integrating the BERT Language Model and Vision Transformer for image feature extraction. 
-- The architecture enhances medical image and text semantic representations through Masked Language Modeling with image features as a pretext task. 
+
 - Fine-tuned on the VQA-Med dataset, the model optimizes attention mechanisms for precise image region analysis, achieving state-of-the-art results with 83.1% modality accuracy.
 
-### Voxtalum: AI Voice Assistant(https://github.com/shashuat/Voxtalum) 
+### Voxtalum: AI Voice Assistant
 *Langchain, DeepLake, Streamlit, Natural Language Processing*  [GitHub Repository](https://github.com/shashuat/Voxtalum)
 
 - Developed a dual-input approach for the AI voice assistant using Whisper and Langchain, enabling efficient knowledge retrieval and natural user interactions. 
-- Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. 
-- Implemented a Streamlit app for easy user interactions.
+- Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. Implemented a Streamlit app for easy user interactions.
 
 
 ## Work Experience
@@ -45,9 +46,8 @@ I'm looking for an Internship in Spring 2025.
 ### Associate Data Scientist
 **SkilloVilla** *Sep 2023 - Dec 2023*
 
-- Created Jupyter Notebooks to improve the data science curriculum, leading to a 20% boost in feedback scores. 
+- Created Jupyter Notebooks to improve the data science curriculum, leading to a 20% boost in feedback scores. Built an automated scoring system for Python lab tests to streamline feedback.
 - Worked with industry experts to design masterclasses that included real-world examples of various ML models. 
-- Built an automated scoring system for Python lab tests to streamline feedback.
 
 ## Education
 
@@ -79,5 +79,5 @@ GitHub: [github/shashuat](https://github.com/shashuat)
 
 Kaggle: [kaggle/zshashz](https://www.kaggle.com/zshashz)
 
-Google scholar: [Scholar](https://scholar.google.com/citations?hl=en&user=Xii-atIAAAAJ)
+Google scholar: [Google Scholar](https://scholar.google.com/citations?hl=en&user=Xii-atIAAAAJ)
 
