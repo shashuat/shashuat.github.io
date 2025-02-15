@@ -4,7 +4,7 @@
 
 Hello! I'm a Master Student in Computer Science at Institut Polytechnique de Paris, France. I'm interested in Multimodal Machine Learning Models and also verification of neural networks.
 
-I'm looking for an Internship for April to September 2025.
+I'm looking for an Internship for April to September 2025. [📄 Download CV](cv_shashwat_sharma.pdf){: .btn .btn-primary}
 
 ## Research Interests
 
@@ -13,27 +13,6 @@ I'm looking for an Internship for April to September 2025.
 - Machine Learning Optimisation
 - Verification of Neural Networks
 - Privacy in AI
-
-## Projects
-
-### Ensemble Language Models for Event Detection
-*Natural Language Processing, HuggingFace Transformers* [GitHub Repository]([https://github.com/shashuat/](https://github.com/shashuat/EnsLM))
-- Developed a classification model using text features extracted via ensemble knowledge distillation from Language models ranging from word vectors to LLMs. Stacked the text and Temporal features with meta-classifiers. Created a preprocessing pipeline and engineered features capturing semantic text insights.
-
-### Multi Modal Transformer for Medical Visual Question Answering 
-*Natural Language Processing, Computer Vision* [GitHub Repository](https://github.com/shashuat/)
-
-- Developed a Multimodal Transformer for Medical VQA, integrating BERT Language Model and Vision Transformer for image feature extraction. The architecture enhances medical image and text semantic representations through Masked Language Modeling with image features as a pretext task. Finetuned on the VQA-Med dataset achieving state-of-the-art results with 83.1% best modality accuracy.
-
-### Voxtalum: AI Voice Assistant
-*Langchain, DeepLake, Streamlit, Natural Language Processing* [GitHub Repository](https://github.com/shashuat/Voxtalum)
-
-- Developed a dual-input approach for the AI voice assistant using Whisper and Langchain, enabling efficient knowledge retrieval and natural user interactions. Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. Implemented a Streamlit app for easy user interactions.
-
-### Quantum Enhanced Transformer
-*PyTorch, Transformer Networks* [GitHub Repository](https://github.com/shashuat/Quantum-Enhanced-Transformer)
-
-- Developed Quantum-enhanced transformer model leveraging PennyLane for quantum computations, featuring quantum multi-head attention and feed-forward networks for improved information processing, attaining 7% higher text classification accuracy at the same number of training steps.
 
 ## Research Experience
 
@@ -77,11 +56,31 @@ Diploma in Data Science
 CGPA: 8.16/10
 
 ## Publications
+- **Sharma, S.**, Kaushik, B. (2024). FeaTrim-ViT: Vision Transformer Trimming with One Shot Neural Architecture Search in Continuous Optimisation Space and Efficient Feature Selection. In: Proceedings of Fifth International Conference on Computing, Communications, and Cyber-Security. Link: doi.org/10.1007/978-981-97-2550-2_8
+- Kaushik, B., **Sharma, S.**, Pant, P., Jamwal, R., Mahajan, A., Khan, Y., Ashok, M., Chadha, A. (2023). A Novel Machine Learning Based Data-driven Device for Precision Agriculture. Intellectual Property Office, United Kingdom. Link: www.registered-design.service.gov.uk/find/6323441
 
-- Kaushik, B., Sharma, S., Pant, P., Jamwal, R. (2024). System and Method for Live Transcription and Summarization using Natural Language Processing. Intellectual Property, India.
-- Kaushik, B., Sharma, S., Pant, P., Jamwal, R., Mahajan, A., Khan, Y., Ashok, M., Chadha, A. (2023). A Novel Machine Learning Based Data-driven Device for Precision Agriculture. Intellectual Property Office, United Kingdom.
-- Sharma, S., Kaushik, B. (2024). FeaTrim-ViT: Vision Transformer Trimming with One Shot Neural Architecture Search in Continuous Optimisation Space. In: Proceedings of International Conference on Cognitive Computing and Cyber Physical Systems.
-- Gupta, N., Kaushik, B., Chadha, A., Khan, Y., Sharma, S. An ensemble approach for multiclass skin lesion classification from dermoscopic images. International Conference on Computing, Communication, Security and Intelligent Systems.
+
+## Projects
+
+### Ensemble Language Models for Event Detection
+*Natural Language Processing, HuggingFace Transformers* [GitHub Repository]([https://github.com/shashuat/](https://github.com/shashuat/EnsLM))
+- Developed a classification model using text features extracted via ensemble knowledge distillation from Language models ranging from word vectors to LLMs. Stacked the text and Temporal features with meta-classifiers. Created a preprocessing pipeline and engineered features capturing semantic text insights.
+
+### Multi Modal Transformer for Medical Visual Question Answering 
+*Natural Language Processing, Computer Vision* [GitHub Repository](https://github.com/shashuat/)
+
+- Developed a Multimodal Transformer for Medical VQA, integrating BERT Language Model and Vision Transformer for image feature extraction. The architecture enhances medical image and text semantic representations through Masked Language Modeling with image features as a pretext task. Finetuned on the VQA-Med dataset achieving state-of-the-art results with 83.1% best modality accuracy.
+
+### Voxtalum: AI Voice Assistant
+*Langchain, DeepLake, Streamlit, Natural Language Processing* [GitHub Repository](https://github.com/shashuat/Voxtalum)
+
+- Developed a dual-input approach for the AI voice assistant using Whisper and Langchain, enabling efficient knowledge retrieval and natural user interactions. Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. Implemented a Streamlit app for easy user interactions.
+
+### Quantum Enhanced Transformer
+*PyTorch, Transformer Networks* [GitHub Repository](https://github.com/shashuat/Quantum-Enhanced-Transformer)
+
+- Developed Quantum-enhanced transformer model leveraging PennyLane for quantum computations, featuring quantum multi-head attention and feed-forward networks for improved information processing, attaining 7% higher text classification accuracy at the same number of training steps.
+
 
 ## Skills
 
