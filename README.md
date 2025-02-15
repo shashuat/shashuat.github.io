@@ -1,10 +1,10 @@
-# Shashwat Sharma
+# Shashwat SHARMA
 
 # ![wow](img.png)
 
 Hello! I'm a Master Student in Computer Science at Institut Polytechnique de Paris, France. I'm interested in Multimodal Machine Learning Models and also verification of neural networks.
 
-I'm looking for an Internship for April to September 2025. [📄 Download CV](cv_shashwat_sharma.pdf){: .btn .btn-primary}
+I'm looking for an Internship for April to September 2025. [📄 Download CV](cv_shashwat_sharma.pdf)
 
 ## Research Interests
 
@@ -81,6 +81,10 @@ CGPA: 8.16/10
 
 - Developed Quantum-enhanced transformer model leveraging PennyLane for quantum computations, featuring quantum multi-head attention and feed-forward networks for improved information processing, attaining 7% higher text classification accuracy at the same number of training steps.
 
+### Kaggle Competitions
+*PyTorch, Machine Learning* [Kaggle]([https://github.com/shashuat/Quantum-Enhanced-Transformer](https://www.kaggle.com/zshashz/competitions))
+
+- Participated in multiple Kaggle competitions, learning skills in data preprocessing, feature engineering, and model optimization across diverse problem domains.
 
 ## Skills
 
