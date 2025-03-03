@@ -55,16 +55,24 @@ Diploma in Data Science
 *2021 - 2023*
 CGPA: 8.16/10
 
-## Publications
-- **Sharma, S.**, Kaushik, B. (2024). FeaTrim-ViT: Vision Transformer Trimming with One Shot Neural Architecture Search in Continuous Optimisation Space and Efficient Feature Selection. In: Proceedings of Fifth International Conference on Computing, Communications, and Cyber-Security. Link: doi.org/10.1007/978-981-97-2550-2_8
-- Kaushik, B., **Sharma, S.**, Pant, P., Jamwal, R., Mahajan, A., Khan, Y., Ashok, M., Chadha, A. (2023). A Novel Machine Learning Based Data-driven Device for Precision Agriculture. Intellectual Property Office, United Kingdom. Link: www.registered-design.service.gov.uk/find/6323441
-
 
 ## Projects
 
 ### Ensemble Language Models for Event Detection
-*Natural Language Processing, HuggingFace Transformers* [GitHub Repository]([https://github.com/shashuat/](https://github.com/shashuat/EnsLM))
+*Natural Language Processing, HuggingFace Transformers* [GitHub Repository](https://github.com/shashuat/EnsLM)
+
 - Developed a classification model using text features extracted via ensemble knowledge distillation from Language models ranging from word vectors to LLMs. Stacked the text and Temporal features with meta-classifiers. Created a preprocessing pipeline and engineered features capturing semantic text insights.
+
+### Kaggle Competitions
+*PyTorch, Machine Learning* [Kaggle](https://www.kaggle.com/zshashz/competitions)
+
+- Participated in multiple Kaggle competitions (got within top 10% in some of them :), learning skills in data preprocessing, feature engineering, and model optimization across diverse problem domains.
+
+### Quantum Enhanced Transformer
+*PyTorch, Transformer Networks* [GitHub Repository](https://github.com/shashuat/Quantum-Enhanced-Transformer)
+
+- Developed Quantum-enhanced transformer model leveraging PennyLane for quantum computations, featuring quantum multi-head attention and feed-forward networks for improved information processing, attaining 7% higher text classification accuracy at the same number of training steps.
+
 
 ### Multi Modal Transformer for Medical Visual Question Answering 
 *Natural Language Processing, Computer Vision* [GitHub Repository](https://github.com/shashuat/)
@@ -76,19 +84,14 @@ CGPA: 8.16/10
 
 - Developed a dual-input approach for the AI voice assistant using Whisper and Langchain, enabling efficient knowledge retrieval and natural user interactions. Created a vector database using DeepLake for integrating the scraped knowledge base with BeautifulSoup4. Implemented a Streamlit app for easy user interactions.
 
-### Quantum Enhanced Transformer
-*PyTorch, Transformer Networks* [GitHub Repository](https://github.com/shashuat/Quantum-Enhanced-Transformer)
+## Publications
 
-- Developed Quantum-enhanced transformer model leveraging PennyLane for quantum computations, featuring quantum multi-head attention and feed-forward networks for improved information processing, attaining 7% higher text classification accuracy at the same number of training steps.
-
-### Kaggle Competitions
-*PyTorch, Machine Learning* [Kaggle]([https://github.com/shashuat/Quantum-Enhanced-Transformer](https://www.kaggle.com/zshashz/competitions))
-
-- Participated in multiple Kaggle competitions, learning skills in data preprocessing, feature engineering, and model optimization across diverse problem domains.
+- **Sharma, S.**, Kaushik, B. (2024). FeaTrim-ViT: Vision Transformer Trimming with One Shot Neural Architecture Search in Continuous Optimisation Space and Efficient Feature Selection. In: Proceedings of Fifth International Conference on Computing, Communications, and Cyber-Security. Link: doi.org/10.1007/978-981-97-2550-2_8
+- Kaushik, B., **Sharma, S.**, Pant, P., Jamwal, R., Mahajan, A., Khan, Y., Ashok, M., Chadha, A. (2023). A Novel Machine Learning Based Data-driven Device for Precision Agriculture. Intellectual Property Office, United Kingdom. Link: www.registered-design.service.gov.uk/find/6323441
 
 ## Skills
 
-- **Programming Languages:** Python, SQL, C++, JavaScript
+- **Programming Languages:** Python, C++, JavaScript, SQL
 - **Libraries & Frameworks:** TensorFlow, PyTorch, Flask, Langchain, FastAPI, React, Pandas, NumPy, Matplotlib, Seaborn
 - **Development Tools:** AWS (EC2, S3, Lambda), MLflow, Tensorboard, Git, Docker, Kubernetes
 - **Languages:** English (Fluent), Hindi (Native), German (B1), French (Learning)
