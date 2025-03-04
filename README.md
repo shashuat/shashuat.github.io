@@ -1,4 +1,6 @@
-# Shashwat SHARMA
+# Shashwat SHARMA 
+
+#### **[Home](/)** | **[Images](/images/)**
 
 # ![wow](img.png)
 
